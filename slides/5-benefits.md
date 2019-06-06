@@ -1,4 +1,4 @@
-# Addiional benefits
+# Additional benefits
 
 #### 1. Semantic auto-completion
 
