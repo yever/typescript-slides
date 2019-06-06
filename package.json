@@ -1,0 +1,14 @@
+{
+  "name": "typescript-slides",
+  "version": "1.0.0",
+  "description": "Slides to present TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ya'ar Hever <yaar.hever@tourlane.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "fusuma": "^1.1.2"
+  }
+}
