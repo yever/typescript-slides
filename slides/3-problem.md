@@ -4,7 +4,7 @@
 
 ## JavaScript is a silent killer
 
-<img src="killer.gif" width="50%" />
+<img src="killer.gif" width="25%" />
 
 ---
 
