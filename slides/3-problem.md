@@ -2,13 +2,13 @@
 
 ---
 
-# JavaScript is a silent killer
+## JavaScript is a silent killer
 
 <img src="killer.gif" width="50%" />
 
 ---
 
-# [The "Wat" talk by Gary Bernhardt](https://www.destroyallsoftware.com/talks/wat)
+## [The "Wat" talk by Gary Bernhardt](https://www.destroyallsoftware.com/talks/wat)
 
 ---
 

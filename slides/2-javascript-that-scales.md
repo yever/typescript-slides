@@ -4,20 +4,22 @@
  
 ## A superset of JavaScript
 
-- all valid JS code is valid TS code
+### All valid JS code is valid TS code.
 
-- not a different language
+### Not a different language
 
-- compiles into JS
+### Compiles into JS
 
-- compiling = removing type information = JS
+### Compiling = removing type information = JS
 
 ---
 
 ## Scaling
 
-- large codebase
+### Large codebase
 
-- large team
+### Large team
 
-- can't rely on spoken explanations
+### Can't rely on spoken explanations
+
+### Stability is a major concern
